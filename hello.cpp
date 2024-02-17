@@ -17,6 +17,4 @@ void helloEveryone() {
 
 void helloToAllHumanBeings() {
 	std::cout << "\nHello Human Beings!\n";
-	std::cout << "\nThis is c++ computer application says hello to all of you one by one\n";
-	std::cout << "\nThis is just a source with simple prints and I'm adding more lines to increase the c++ codes\n";
 }

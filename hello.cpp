@@ -2,11 +2,11 @@
 #include "hello.h"
 
 void helloWorld() {
-	std::cout << "\nHello World!\n";
+	std::cout << "\nHello 42dot!\n";
 }
 
 void helloNasim() {
-	std::cout << "\nHello Nasim!\n";
+	std::cout << "\nHello Ray!\n";
 	std::cout << "\nHow are you doing these days?\n";
 }
 

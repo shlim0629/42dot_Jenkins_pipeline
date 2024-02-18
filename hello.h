@@ -1,6 +1,6 @@
 void helloWorld();
 
-void helloNasim();
+void helloRay();
 
 void helloEveryone();
 

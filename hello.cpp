@@ -5,14 +5,12 @@ void helloWorld() {
 	std::cout << "\nHello 42dot!\n";
 }
 
-void helloNasim() {
+void helloRay() {
 	std::cout << "\nHello Ray!\n";
-	std::cout << "\nHow are you doing these days?\n";
 }
 
 void helloEveryone() {
 	std::cout << "\nHello Everyone!\n";
-	std::cout << "\nI wish you all the best\n";
 }
 
 void helloToAllHumanBeings() {

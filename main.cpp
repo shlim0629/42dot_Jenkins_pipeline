@@ -6,7 +6,7 @@ int main (void){
     std::cout << "***************************************************\n";
     std::cout << "***************************************************\n";
     helloWorld();
-    helloNasim();
+    helloRay();
     helloEveryone();
     helloToAllHumanBeings();
     std::cout << "***************************************************\n";

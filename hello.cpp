@@ -1,6 +1,8 @@
 #include <iostream>
 #include "hello.h"
 
+/* update for webhook */
+
 void helloWorld() {
 	std::cout << "\nHello 42dot!\n";
 }

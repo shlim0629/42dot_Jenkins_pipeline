@@ -5,6 +5,7 @@
 /* try again */
 /* try again */
 /* try again */
+/* test */
 
 void helloWorld() {
 	std::cout << "\nHello 42dot!\n";
